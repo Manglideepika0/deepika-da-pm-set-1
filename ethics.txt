@@ -1,0 +1,1 @@
+Ethics plan for energy data focuses on fairness and privacy. It ensures responsible use of data in energy project management. Bias is detected and mitigated using proper techniques, and regulations like GDPR are followed. This aligns with EQ moderate and responsible decision-making in data analysis.
